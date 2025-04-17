@@ -109,10 +109,7 @@ def run_spy():
             # 'name3' : 'emailid@gmail.com'
             'john': 'chhavikaushik3@gmail.com',
             'snehi': 'snehikaushik9@gmail.com',
-            'Harsh': 'harshverma98@gmail.com',
-            'manan': 'manannagpal@gmail.com',
-            'divij': 'divijnagpaldn@gmail.com',
-            'rithik': 'rithikkhatri212@gmail.com'
+            
         }
         def get_email_info():
             talk("To whom you want to send an email?")
